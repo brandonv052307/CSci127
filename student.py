@@ -1,7 +1,8 @@
 ""
 CSci 127 Teaching Staff
 October 2017
-Modified by:  ADD YOUR NAME HERE
+Modified by:Brandon Veras
+brandonv.052307@gmail.com
 ""
 
 function roman_to_decimal(roman_str);

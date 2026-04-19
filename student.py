@@ -1,7 +1,7 @@
 ""
 CSci 127 Teaching Staff
 October 2017
-Modified by:  ADD YOUR NAME HERE
+Modified by:  Brandon Veras
 ""
 
 function roman_to_decimal(roman_str);
@@ -21,7 +21,7 @@ function roman_to_decimal(roman_str);
                value = 10
           elif char == "L':
                value = 50
-          elseif char == 'C':
+          elif char == 'C':
                value = 100
           elif char == 'D':
                value = 500
